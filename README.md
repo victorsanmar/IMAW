@@ -1,4 +1,4 @@
-# Script-Lamp
+# IMAW
 ## Introducción
 El acrónimo LAMP se refiere a un grupo de 4 tecnologías: Sistema operativo Linux, un servidor web Apache, una base de datos MySQL y lenguaje de programación PHP.
 
