@@ -14,4 +14,4 @@ Estas tecnologías forman una pila, que usted puede utilizar para alojar sitio w
 + Acceso administrador al servidor (root)
 
 ## Script
-![Script](https://github.com/victorsanmar/script-lamp/blob/main/lamp2.sh) 
+[Script](https://github.com/victorsanmar/script-lamp/blob/main/lamp2.sh) 
