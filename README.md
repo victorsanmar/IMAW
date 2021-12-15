@@ -31,4 +31,4 @@ Si nos sale esta pantalla nos indicara que nuestro bookmedik se ha instalado cor
 
 ## NGINX Y SSL
 
-![Nginx](https://github.com/victorsanmar/script-lamp/blob/main/NGINX%20ssl%20y%20balanceo.pdf)
+[Nginx](https://github.com/victorsanmar/script-lamp/blob/main/NGINX%20ssl%20y%20balanceo.pdf)
