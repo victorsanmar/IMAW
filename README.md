@@ -20,3 +20,4 @@ Estas tecnologías forman una pila, que usted puede utilizar para alojar sitio w
 ## Despliegue de bookmedik
 
 [Bookmedik](https://github.com/evilnapsis/bookmedik)
+(https://github.com/victorsanmar/script-lamp/blob/main/imagenes/bk1.PNG)
