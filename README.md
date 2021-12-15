@@ -23,8 +23,8 @@ Estas tecnologías forman una pila, que usted puede utilizar para alojar sitio w
 
 Accedemos con admin admin
 
-[!Bookmedik](https://github.com/victorsanmar/script-lamp/blob/main/imagenes/bk11.PNG)
+![Bookmedik](https://github.com/victorsanmar/script-lamp/blob/main/imagenes/bk11.PNG)
 
 Si nos sale esta pantalla nos indicara que nuestro bookmedik se ha instalado correctamente
 
-[!Bookmedik](https://github.com/victorsanmar/script-lamp/blob/main/imagenes/bk1.PNG)
+![Bookmedik](https://github.com/victorsanmar/script-lamp/blob/main/imagenes/bk1.PNG)
