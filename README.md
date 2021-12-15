@@ -28,3 +28,7 @@ Accedemos con admin admin
 Si nos sale esta pantalla nos indicara que nuestro bookmedik se ha instalado correctamente
 
 ![Bookmedik](https://github.com/victorsanmar/script-lamp/blob/main/imagenes/bk1.PNG)
+
+## NGINX Y SSL
+
+![Nginx](https://github.com/victorsanmar/script-lamp/blob/main/NGINX%20ssl%20y%20balanceo.pdf)
