@@ -1,4 +1,4 @@
-# script-lamp
+# Script-Lamp
 ## Introducción
 El acrónimo LAMP se refiere a un grupo de 4 tecnologías: Sistema operativo Linux, un servidor web Apache, una base de datos MySQL y lenguaje de programación PHP.
 
@@ -14,4 +14,9 @@ Estas tecnologías forman una pila, que usted puede utilizar para alojar sitio w
 + Acceso administrador al servidor (root)
 
 ## Script
+
 [Script](https://github.com/victorsanmar/script-lamp/blob/main/lamp2.sh) 
+
+## Despliegue de bookmedik
+
+[Bookmedik](https://github.com/evilnapsis/bookmedik)
