@@ -20,4 +20,11 @@ Estas tecnologías forman una pila, que usted puede utilizar para alojar sitio w
 ## Despliegue de bookmedik
 
 [Bookmedik](https://github.com/evilnapsis/bookmedik)
-(https://github.com/victorsanmar/script-lamp/blob/main/imagenes/bk1.PNG)
+
+Accedemos con admin admin
+
+[!Bookmedik](https://github.com/victorsanmar/script-lamp/blob/main/imagenes/bk11.PNG)
+
+Si nos sale esta pantalla nos indicara que nuestro bookmedik se ha instalado correctamente
+
+[!Bookmedik](https://github.com/victorsanmar/script-lamp/blob/main/imagenes/bk1.PNG)
