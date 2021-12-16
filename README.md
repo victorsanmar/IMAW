@@ -4,7 +4,7 @@ El acrónimo LAMP se refiere a un grupo de 4 tecnologías: Sistema operativo Lin
 
 Estas tecnologías forman una pila, que usted puede utilizar para alojar sitio web dinámicos como WordPress y Drupal. Las pilas LAMP son ahora las utilizadas para alojar aplicaciones web.
 
-## Requisitos
+## Requisitos Script LAMP
 
 + Conocimiento de administración en Linux.
 + Acceso SSH
