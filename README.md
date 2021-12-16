@@ -13,11 +13,11 @@ Estas tecnologías forman una pila, que usted puede utilizar para alojar sitio w
 + Un servidor o una máquina virtual con una distribución Linux un VPS, un servidor dedicado o una instancia Public Cloud)
 + Acceso administrador al servidor (root)
 
-## Script
+# Script
 
 [Script](https://github.com/victorsanmar/script-lamp/blob/main/lamp2.sh) 
 
-## Despliegue de bookmedik
+# Despliegue de bookmedik
 
 [Bookmedik](https://github.com/evilnapsis/bookmedik)
 
@@ -29,6 +29,6 @@ Si nos sale esta pantalla nos indicara que nuestro bookmedik se ha instalado cor
 
 ![Bookmedik](https://github.com/victorsanmar/script-lamp/blob/main/imagenes/bk1.PNG)
 
-## NGINX Y SSL
+# NGINX Y SSL
 
 [Nginx](https://github.com/victorsanmar/script-lamp/blob/main/NGINX%20ssl%20y%20balanceo.pdf)
